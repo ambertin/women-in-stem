@@ -32,52 +32,84 @@ Bin Yu is currently Chancellor's Professor in the Departments of Statistics and 
 
 ### Brenda Laurel
 
+Brenda Laurel is a researcher and designer of video games who helped pioneer the development of virtual reality and advocated for diversity and inclusion in video game design. Her project *Placeholder* was the first VR project to separate direction of gaze from direction of movement, use natural imagery, and allow for two-hand control.
+
 ### Carol Shaw
+
+Carol Shaw was one of the first ever female programmers in the history of video game design. She worked at Atari in the 1970s and is known for developing the hit Activision game *River Raid*. 
 
 ### Christine Darden
 
+Christine Darden is a mathematician, data analyst, and engineer who spent many years at NASA researching supersonic flight. She was the first African-American Woman at Langley Research Center to be promoted to the top rank of the federal civil service.
+
+
 ## Dorothy Vaughan
+
+Dorothy Vaughan was a mathematician who worked as a computer for NASA. She was the first African-American woman to be promoted to the role of supervisor in the computing program, where she led the teaching of Fortran and headed the Analysis and Computation Division programming group.
 
 ### Elizabeth Feinler
 
+Elizabeth Feinler is an information scientist, known for pioneering and managing the forerunners of the modern Internet---the ARPANET, the Defense Data Network, and Network Information Centers---for the US Department of Defense. She was part of the group who developed the Internet domain scheme used today (.com, .gov, .net, etc.).
+
 ### Emmy Noether
+
+Emmy Noether was a mathmatician who contributed to the field of abstract algebra. She is best known for developing Noether's Theorem, which was influential in the field of theoretical physics, letting physicists get conserved quantities from symmetries in nature.
 
 ## **Diamonds**
 
 
 ### Euphemia Haynes
 
+Euphemia Haynes was a mathematician and teacher and the first African-American woman to earn a PhD in mathematics (in 1943). In her teaching career, she became the first woman chair of the Washington DC Board of Education, where she fought against racial discrimination in schools and contributed ideas that eventually led to the end of the discriminatory practice of the [track system](https://law.justia.com/cases/federal/district-courts/FSupp/269/401/1800940/).
 
 ### Florence Nightingale
 
+Florence Nightingale was a pioneer in statistical visualization. She developed the polar area diagram (similar to a circular histogram) and used her statistical knowledge to make a big impact on human lives, working to improve public health and sanitation in India. Although not directly related to mathematics, statistics, or computer science, she was also incredibly influential in the field of nursing, setting an example for treatment with compassion and commitment to care.
+
 ### Frances Allen
 
+Frances Allen was a computer scientist who pioneered in the field of optimizing compilers, which work to minimize the run-time, memory usage, and/or storage space requirements for computer programs. Allen introduced many algorithms that laid the groundwork for today's optimization technologies.
 
 ### Frances Spence
 
+Frances Spence was one of the original programmers of ENIAC, the first modern computer, and one of the first ever computer programmers in general.
 
 ### Gertrude Mary Cox
 
+Gertrude Mary Cox was a statistician known for her research in experimental design. Her book, *Experimental Designs*, was a primary reference in the design of experiments by statisticians for many years after its publication.
 
 ### Gladys West
 
-### Grade Hopper
+Gladys West is a mathematician known for contributing to the modeling of Earth's shape, as well as for her development of models that influenced the development of GPS. She was also the only the second black woman ever hired at the Naval Proving Ground (also known as the Naval Surface Warfare Center), where she served as a programmer and manager for satellite data analysis.
 
+### Grace Hopper
+
+Grace Hopper was a computer scientist, known for inventing one of the first linkers, which allowed for taking multiple code files and combining them in to one program. She also devised the theory of machine-independent programming languages and created a language called FLOW-MATIC, which influenced the design of COBOL, a language still used today in large scale transaction processing.
 
 ### Grace Wabha
 
+Grace Wabha is a statistician who pioneered methods for smoothing out messy data sets. Even more famously, she developed the process of cross-validation, which is used to measure the performance of many machine learning models.
+
 ### Hypatia
+
+Hypatia lived in the 4th and 5th centuries, and is the first well-recorded female mathematician. She is said to have excelled her father in mathematics and to have been a very talented astronomer.
 
 ### Ida Rhodes
 
+Ida Rhodes was a pioneer in the field of programming systems. She developed the C-10 programming language alongside Betty Holberton and also designed the first computer that was used by the Social Security Administration. 
+
 ### Ingrid Daubechies
 
+Ingrid Daubechies is known for studying the mathematical methods used for image compression technology, constructing continuous wavelets that only require finite processing.
 
 ### Janet Norwood
+
+Janet Norwood was the first female Commissioner of the US Bureau of Labor Statistics. She worked to bring recognition to female leadership and served as the head, a board member, or an advisor to many different statistical organizations, including the American Statistical Association and the Urban Institute. 
 
 
 ### Jean Sammet
 
+Jean Sammet was a computer scientist who is known for developing the FORMAC programming language and helping to develop COBOL, a language still used today in some business and administrative systems.
 
 ## **Spades**
 
