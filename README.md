@@ -1,1 +1,1 @@
-# women-in-stem
+# Women in Math, Stats, and CS –– Card Profiles
