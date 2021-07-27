@@ -1,12 +1,9 @@
 # Women in Math, Stats, and CS –– Card Profiles
 
 
-$~$
 
 <img src="hearts.png"/>
 
-
-$~$
 
 ### Ada Lovelace (A)
 
@@ -61,11 +58,9 @@ Elizabeth Feinler is an information scientist, known for pioneering and managing
 
 Emmy Noether was a mathmatician who contributed to the field of abstract algebra. She is best known for developing Noether's Theorem, which was influential in the field of theoretical physics, letting physicists get conserved quantities from symmetries in nature.
 
-$~$
 
 <img src="diamonds.png"/>
 
-$~$
 
 ### Euphemia Haynes (A)
 
@@ -120,11 +115,9 @@ Janet Norwood was the first female Commissioner of the US Bureau of Labor Statis
 
 Jean Sammet was a computer scientist who is known for developing the FORMAC programming language and helping to develop COBOL, a language still used today in some business and administrative systems.
 
-$~$
 
 <img src="spades.png"/>
 
-$~$
 
 ### Joan Clarke (A)
 
@@ -180,11 +173,9 @@ Mary Ross was the first Native American female engineer and the first female eng
 
 Mary Somerville studied mathematics and astronomy in the early 1800s. She published mathematical solutions to differential calculus problems and contributed to the visibility of mathematics in Britain. Somerville also served as tutor to Ada Lovelace (Ace of Hearts).
 
-$~$
 
 <img src="clubs.png"/>
 
-$~$
 
 ### Mary Allen Wilkes (A)
 
@@ -194,9 +185,9 @@ Mary Allen Wilkes was a computer programmer and logic designer known for her wor
 
 Maryam Mirzakhani was a mathematician who earned the honor of being the first (and as of writing---only) woman to win the Fields Medal, the most prestigious award in the field of mathematics for her work on advanced geometry.
 
-### Molly Orshansky (Q)
+### Mollie Orshansky (Q)
 
-Molly Orshansky was a statistician and economist. She developed the *Orshansky Poverty Thresholds*, now used in the United States to determine which households are considered to be poor, based on the cost of a nutritionally sufficient diet.
+Mollie Orshansky was a statistician and economist. She developed the *Orshansky Poverty Thresholds*, now used in the United States to determine which households are considered to be poor, based on the cost of a nutritionally sufficient diet.
 
 ### Nan Laird (J)
 
