@@ -7,11 +7,11 @@
 
 ### Ada Lovelace (A)
 
-Ada Lovelace was an mathematician from the 1800s. She is considered by many to be the first ever computer programmer for writing an algorithm for a computing machine called the analytical engine, which was developed by inventor Charles Babbage. Lovelace made notes on how the engine could be used to handle not just numbers, but letters and symbols, and also theorized the method of code looping. Her contributions had little to no impact while she was alive and were not known on a widespread scale until 1953, when her work was published by BV Bowden in *Faster Than Thought: A Symposium on Digital Computing Machines*.
+Ada Lovelace was an mathematician from the 1800s. She is considered by many to be the first ever computer programmer for writing an algorithm for a computing machine called the [analytical engine](https://blogs.bodleian.ox.ac.uk/adalovelace/2018/07/26/ada-lovelace-and-the-analytical-engine/), which was developed by inventor Charles Babbage. Lovelace made notes on how the engine could be used to handle not just numbers, but letters and symbols, and also theorized the method of code looping. Her contributions had little to no impact while she was alive and were not known on a widespread scale until 1953, when her work was published by BV Bowden in [*Faster Than Thought: A Symposium on Digital Computing Machines*](https://doi.org/10.1002/qj.49708034340).
 
 ### Adele Goldberg (K)
 
-Adele Goldberg is a computer scientist, known for being one of the creators of the programming language Smalltalk-80, which was hugely influential to the development of many of the world's top object-oriented programming languages today (Java, Python, Ruby, etc.). Smalltalk also proved to be a key tool in the development of the agile development methodology, which centers on the idea of iterative development.
+Adele Goldberg is a computer scientist, known for being one of the creators of the programming language [Smalltalk-80](https://computerhistory.org/blog/introducing-the-smalltalk-zoo-48-years-of-smalltalk-history-at-chm/), which was influential in the development of many of the world's top object-oriented programming languages today (Java, Python, Ruby, etc.). Smalltalk also proved to be a [key tool](https://theagilerevolution.com/tag/smalltalk/) in the development of the agile development methodology, which centers on the idea of iterative development.
 
 ### Anita Borg (Q)
 
@@ -19,11 +19,11 @@ Anita Borg was a computer scientist who founded the [Grace Hopper Celebration of
 
 ### Annie Easley (J)
 
-Annie Easley was a mathematician and computer programmer who broke down barriers for women and people of color in tech. She was one of the first African-American employees to serve as a human computer at NASA, eventually working as a programmer to develop rockets and hybrid battery technology. She was very invested in outreach efforts, participating in tutoring programs at schools and working to inspire women and minorities to go into STEM.
+[Annie Easley](https://www.nasa.gov/feature/annie-easley-computer-scientist/) was a mathematician and computer programmer who broke down barriers for women and people of color in tech. She was one of the first African-American employees to serve as a human computer at NASA, eventually working as a programmer to develop rockets and hybrid battery technology. She was very invested in outreach efforts, participating in tutoring programs at schools and working to inspire women and minorities to go into STEM.
 
 ### Betty Jean Bartik (10)
 
-Betty Jean Bartik, also known as just Jean Bartik or Betty Jean Jennings, was one of the original programmers of the ENIAC (Electronic Numeric Integrator and Computer), which was developed at the end of WWII to calculate ballistic trajectories for military weapons. It was the first large scale computer of its kind, paving the way for many of the modern computers of today. Bartik and her colleagues worked to develop many of the fundamentals of programming and---arguably---to develop the discipline of computer programming itself.
+Betty Jean Bartik, also known as just Jean Bartik or Betty Jean Jennings, was one of the original programmers of the [ENIAC](https://www.computerhistory.org/revolution/birth-of-the-computer/4/78) (Electronic Numeric Integrator and Computer), which was developed at the end of WWII to calculate ballistic trajectories for military weapons. It was the first large scale computer of its kind, paving the way for many of the modern computers of today. Bartik and her colleagues worked to develop many of the fundamentals of programming and---arguably---to develop the discipline of computer programming itself.
 
 ### Betty Snyder Holberton (9)
 
@@ -35,28 +35,28 @@ Bin Yu is currently Chancellor's Professor in the Departments of Statistics and 
 
 ### Brenda Laurel (7)
 
-Brenda Laurel is a researcher and designer of video games who helped pioneer the development of virtual reality and advocated for diversity and inclusion in video game design. Her project *Placeholder* was the first VR project to separate direction of gaze from direction of movement, use natural imagery, and allow for two-hand control.
+Brenda Laurel is a researcher and designer of video games who helped pioneer the development of virtual reality and advocated for diversity and inclusion in video game design. Her project [*Placeholder*](https://www.artlink.com.au/articles/4724/brenda-laurelE28099s-placeholder-in-dreams-everybody-fl/) was the first VR project to separate direction of gaze from direction of movement, use natural imagery, and allow for two-hand control.
 
 ### Carol Shaw (6)
 
-Carol Shaw was one of the first ever female programmers in the history of video game design. She worked at Atari in the 1970s and is known for developing the hit Activision game *River Raid*. 
+[Carol Shaw](https://www.museumofplay.org/blog/chegheads/2017/07/preserving-carol-shaws-trailblazing-video-game-career) was one of the first ever female programmers in the history of video game design. She worked at Atari in the 1970s and is known for developing the hit Activision game *River Raid*. 
 
 ### Christine Darden (5)
 
-Christine Darden is a mathematician, data analyst, and engineer who spent many years at NASA researching supersonic flight. She was the first African-American Woman at Langley Research Center to be promoted to the top rank of the federal civil service.
+[Christine Darden](https://www.nasa.gov/centers/langley/news/researchernews/rn_CDarden.html) is a mathematician, data analyst, and engineer who spent many years at NASA researching supersonic flight. She was the first African-American Woman at Langley Research Center to be promoted to the top rank of the federal civil service.
 
 
 ## Dorothy Vaughan (4)
 
-Dorothy Vaughan was a mathematician who worked as a computer for NASA. She was the first African-American woman to be promoted to the role of supervisor in the computing program, where she led the teaching of Fortran and headed the Analysis and Computation Division programming group.
+[Dorothy Vaughan](https://www.nasa.gov/content/dorothy-vaughan-biography) was a mathematician who worked as a computer for NASA. She was the first African-American woman to be promoted to the role of supervisor in the computing program, where she led the teaching of [Fortran](https://fortran-lang.org) and headed the Analysis and Computation Division programming group.
 
 ### Elizabeth Feinler (3)
 
-Elizabeth Feinler is an information scientist, known for pioneering and managing the forerunners of the modern Internet---the ARPANET, the Defense Data Network, and Network Information Centers---for the US Department of Defense. She was part of the group who developed the Internet domain scheme used today (.com, .gov, .net, etc.).
+Elizabeth Feinler is an information scientist, known for pioneering and managing the forerunners of the modern Internet---the [ARPANET](https://www.darpa.mil/attachments/ARPANET_final.pdf), the [Defense Data Network](https://media.defense.gov/1990/Jul/05/2001714385/-1/-1/1/90-097.pdf), and Network Information Centers---for the US Department of Defense. She was part of the group who developed the Internet [domain scheme](https://www.internethalloffame.org/inductees/elizabeth-feinler) used today (.com, .gov, .net, etc.).
 
 ### Emmy Noether (2)
 
-Emmy Noether was a mathmatician who contributed to the field of abstract algebra. She is best known for developing Noether's Theorem, which was influential in the field of theoretical physics, letting physicists get conserved quantities from symmetries in nature.
+Emmy Noether was a mathmatician who contributed to the field of abstract algebra. She is best known for developing [Noether's Theorem](https://math.osu.edu/sites/math.osu.edu/files/Noether_Theorem.pdf), which was influential in the field of theoretical physics, letting physicists get conserved quantities from symmetries in nature.
 
 
 <img src="diamonds.png"/>
@@ -68,7 +68,7 @@ Euphemia Haynes was a mathematician and teacher and the first African-American w
 
 ### Florence Nightingale (K)
 
-Florence Nightingale was a pioneer in statistical visualization. She developed the polar area diagram (similar to a circular histogram) and used her statistical knowledge to make a big impact on human lives, working to improve public health and sanitation in India. Although not directly related to mathematics, statistics, or computer science, she was also incredibly influential in the field of nursing, setting an example for treatment with compassion and commitment to care.
+Florence Nightingale was a pioneer in statistical visualization. She developed the [polar area diagram](https://www.agnesscott.edu/lriddle/women/nightpiechart.htm) (similar to a circular histogram) and used her statistical knowledge to make a big impact on human lives, working to improve public health and sanitation in India. Although not directly related to mathematics, statistics, or computer science, she was also incredibly influential in the field of nursing, setting an example for treatment with compassion and commitment to care.
 
 ### Frances Allen (Q)
 
@@ -80,19 +80,19 @@ Frances Spence was one of the original programmers of ENIAC, the first modern co
 
 ### Gertrude Mary Cox (10)
 
-Gertrude Mary Cox was a statistician known for her research in experimental design. Her book, *Experimental Designs*, was a primary reference in the design of experiments by statisticians for many years after its publication.
+Gertrude Mary Cox was a statistician known for her [research in experimental design](https://www.ams.org/journals/notices/201903/rnoti-p317.pdf). Her book, *Experimental Designs*, was a primary reference in the design of experiments by statisticians for many years after its publication.
 
 ### Gladys West (9)
 
-Gladys West is a mathematician known for contributing to the modeling of Earth's shape, as well as for her development of models that influenced the development of GPS. She was also the only the second black woman ever hired at the Naval Proving Ground (also known as the Naval Surface Warfare Center), where she served as a programmer and manager for satellite data analysis.
+[Gladys West](https://www.theguardian.com/society/2020/nov/19/gladys-west-the-hidden-figure-who-helped-invent-gps) is a mathematician known for contributing to the modeling of Earth's shape, as well as for her development of models that influenced the development of GPS. She was also the only the second black woman ever hired at the Naval Proving Ground (also known as the Naval Surface Warfare Center), where she served as a programmer and manager for satellite data analysis.
 
 ### Grace Hopper (8)
 
-Grace Hopper was a computer scientist, known for inventing one of the first linkers, which allowed for taking multiple code files and combining them in to one program. She also devised the theory of machine-independent programming languages and created a language called FLOW-MATIC, which influenced the design of COBOL, a language still used today in large scale transaction processing.
+[Grace Hopper](https://news.yale.edu/2017/02/10/grace-murray-hopper-1906-1992-legacy-innovation-and-service) was a computer scientist, known for inventing one of the first [linkers](https://isaaccomputerscience.org/concepts/sys_trans_linkers_loaders), which allowed for taking multiple code files and combining them in to one program. She also devised the theory of machine-independent programming languages and created a language called FLOW-MATIC, which influenced the design of [COBOL](https://stackoverflow.blog/2020/04/20/brush-up-your-cobol-why-is-a-60-year-old-language-suddenly-in-demand/), a language still used today in large scale transaction processing.
 
 ### Grace Wabha (7)
 
-Grace Wabha is a statistician who pioneered methods for smoothing out messy data sets. Even more famously, she developed the process of cross-validation, which is used to measure the performance of many machine learning models.
+Grace Wabha is a statistician who pioneered methods for smoothing out messy data sets. Even more famously, she developed the process of [cross-validation](http://pages.stat.wisc.edu/~wahba/ftp1/oldie/golub.heath.wahba.pdf), which is used to measure the performance of many machine learning models.
 
 ### Hypatia (6)
 
@@ -104,7 +104,7 @@ Ida Rhodes was a pioneer in the field of programming systems. She developed the 
 
 ### Ingrid Daubechies (4)
 
-Ingrid Daubechies is known for studying the mathematical methods used for image compression technology, constructing continuous wavelets that only require finite processing.
+Ingrid Daubechies is known for studying the mathematical methods used for [image compression](https://www.simonsfoundation.org/2019/06/12/making-wavelets-a-profile-of-ingrid-daubechies/) technology, constructing continuous wavelets that only require finite processing.
 
 ### Janet Norwood (3)
 
@@ -121,17 +121,17 @@ Jean Sammet was a computer scientist who is known for developing the FORMAC prog
 
 ### Joan Clarke (A)
 
-Joan Clarke was a cryptanalyst known for working as a code-breaker at the Allied code-breaking center Bletchley Park in WWII. She worked on the Enigma project, helping to decrypt Nazi Germany's communications in an effort that would prove immensely helpful to the Allied war effort.
+Joan Clarke was a cryptanalyst known for working as a code-breaker at the Allied code-breaking center [Bletchley Park](https://bletchleypark.org.uk) in WWII. She worked on the Enigma project, helping to decrypt Nazi Germany's communications in an effort that would prove immensely helpful to the Allied war effort.
 
 
 ### Julia Robinson (K)
 
-Julia Robinson was a mathematician who contributed to computability theory and computational complexity theory. Her PhD thesis showed that rational number theory was an undecidable problem. She also worked to resolve a theorem formerly called Hilbert's tenth problem and now known as the MRDP theorem.
+[Julia Robinson](http://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/robinson-julia.pdf) was a mathematician who contributed to computability theory and computational complexity theory. Her Ph.D thesis showed that rational number theory was an undecidable problem. She also worked to resolve a theorem formerly called Hilbert's tenth problem and now known as the MRDP theorem.
 
 
 ### Katherine Johnson (Q)
 
-Katherine Johnson was a mathematician who contributed calculations that were critical for success in early US spaceflights. Working at NASA, she helped pioneer computer use for calculations and worked on projects related to Project Mercury, the Apollo Lunar Module, and the Space Shuttle program.
+[Katherine Johnson](https://www.nasa.gov/audience/forstudents/k-4/stories/nasa-knows/who-was-katherine-johnson-k4) was a mathematician who contributed calculations that were critical for success in early US spaceflights. Working at NASA, she helped pioneer computer use for calculations and worked on projects related to Project Mercury, the Apollo Lunar Module, and the Space Shuttle program.
 
 ### Kathleen Antonelli (J)
 
@@ -139,39 +139,39 @@ Kathleen Antonelli was one of the six programmers of the ENIAC, a pioneering dev
 
 ### Kathryn Chaloner (10)
 
-Kathryn Chaloner was a statistician who developed Bayesian experimental methods, writing the first work on an Bayesian optimal design theory for linear modeling, though she also provided contributions in the fields of outlier detection and analysis of residuals.
+Kathryn Chaloner was a statistician who developed Bayesian [experimental methods](https://core.ac.uk/download/pdf/211364684.pdf), writing the first work on an Bayesian optimal design theory for linear modeling, though she also provided contributions in the fields of outlier detection and analysis of residuals.
 
 ### Kathryn Roeder (9)
 
-Kathryn Roeder is a statistician known for developing methods to uncover the genetic link for certain complex diseases. She has also contributed to literature on semiparametric inference.
+Kathryn Roeder is a statistician known for developing methods to uncover the genetic link for certain complex diseases. She has also contributed to literature on semi-parametric inference.
 
 ### Margaret Hamilton (8)
 
-Margaret Hamilton was the director of software engineering at the MIT Instrumentation Laboratory and helped to develop software for the NASA Apollo program. When computer alarms were triggered during the Apollo 11 mission, Hamilton was prepared, having prepped for that outcome a few years before. Her impressive work helped legitimize software development as a discipline within engineering, giving term "software engineering" much of the respect it now holds today.
+[Margaret Hamilton](https://www.smithsonianmag.com/smithsonian-institution/margaret-hamilton-led-nasa-software-team-landed-astronauts-moon-180971575/) was the director of software engineering at the MIT Instrumentation Laboratory and helped to develop software for the NASA Apollo program. Her work helped legitimize software development as a discipline within engineering, giving term "software engineering" much of the respect it now holds today.
 
 ### Maria Gaetana Agnesi (7)
 
-Maria Gaetana Agnesi is considered the first woman to have earned a reputation for mathematics in the Western world. Her work on "Analytical Institutions for the Use of Italian Youth" comprehensively summarized algebra and even some calculus, which had only been developed relatively recently at the time Agnesi was writing.
+Maria Gaetana Agnesi is considered the first woman to have earned a reputation for mathematics in the Western world. Her work on ["Analytical Institutions for the Use of Italian Youth"](https://www.maa.org/press/periodicals/convergence/mathematical-treasure-maria-agnesi-s-analytical-institutions-in-italian-and-english) comprehensively summarized algebra and even some calculus, which had only been developed relatively recently at the time Agnesi was writing.
 
 ### Marjorie Lee Browne (6)
 
-Marjorie Lee Browne was an educator of mathematics and one of the first African-American women to receive a Ph.D and one of the first two to receive a Ph.D in mathematics. For a quarter decade, she was the only person in her department at North Carolina Central University to have a Ph.D, and she helped bring meaningful change to the school, obtaining its first computer for academic use.
+[Marjorie Lee Browne](https://mathshistory.st-andrews.ac.uk/Biographies/Browne/) was an educator of mathematics and one of the first African-American women to receive a Ph.D and one of the first two to receive a Ph.D in mathematics. For a quarter decade, she was the only person in her department at North Carolina Central University to have a Ph.D, and she helped bring meaningful change to the school, obtaining its first computer for academic use.
 
 ### Marlyn Wescoff Meltzer (5)
 
-Marlyn Wescoff Meltzer was one of the six programmers of ENIAC, the first all-purpose digital computer which laid the ground for modern computing tehnology and programming standards.
+Marlyn Wescoff Meltzer was one of the six programmers of ENIAC, the first all-purpose digital computer which laid the ground for modern computing tehcnology and programming standards.
 
 ### Mary Jackson (4)
 
-Mary Jackson was a mathematician and aerospace engineer who earned the title of NASA's first black female engineer. She eventually became a manager of the NASA Affirmative Action Program and Federal Women's Program, working to push for the hiring and promotion of women at NASA.
+[Mary Jackson](https://www.nasa.gov/press-release/nasa-names-headquarters-after-hidden-figure-mary-w-jackson) was a mathematician and aerospace engineer who earned the title of NASA's first black female engineer. She eventually became a manager of the NASA Affirmative Action Program and Federal Women's Program, working to push for the hiring and promotion of women at NASA.
 
 ### Mary Ross (3)
 
-Mary Ross was the first Native American female engineer and the first female engineer at the Lockheed Corporation. At Lockheed, she helped found the now famous Skunk Works aircraft design project and did a lot of work on aerospace design---for rockets, interplanetary travel, and satellites.
+[Mary Ross](https://www.cherokeephoenix.org/education/mary-golda-ross-mathematician-engineer-and-inspiration/article_35dde35c-7b67-11eb-a57a-df1679a79491.html) was the first Native American female engineer and the first female engineer at the Lockheed Corporation. At Lockheed, she helped found the now famous [Skunk Works](https://www.lockheedmartin.com/en-us/who-we-are/business-areas/aeronautics/skunkworks.html) aircraft design project and did a lot of work on aerospace design---for rockets, interplanetary travel, and satellites.
 
 ### Mary Somerville (2)
 
-Mary Somerville studied mathematics and astronomy in the early 1800s. She published mathematical solutions to differential calculus problems and contributed to the visibility of mathematics in Britain. Somerville also served as tutor to Ada Lovelace (Ace of Hearts).
+[Mary Somerville](https://findingada.com/shop/more-passion-for-science-journeys-into-the-unknown/mary-somerville-the-mechanism-of-the-heavens/) studied mathematics and astronomy in the early 1800s. She published mathematical solutions to differential calculus problems and contributed to the visibility of mathematics in Britain. Somerville also served as tutor to Ada Lovelace (Ace of Hearts).
 
 
 <img src="clubs.png"/>
