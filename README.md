@@ -179,52 +179,52 @@ Marlyn Wescoff Meltzer was one of the six programmers of ENIAC, the first all-pu
 
 ### Mary Allen Wilkes (A)
 
-Mary Allen Wilkes was a computer programmer and logic designer known for her work on LINC, considered by some to be the first mini-computer, a predecessor of the personal computer. Wilkes worked to develop the operating system, which incorporated scrolling and controls to manipulate documents in real time.
+Mary Allen Wilkes was a computer programmer and logic designer known for her work on [LINC](https://dbpedia.org/page/LINC), considered by some to be the first mini-computer, a predecessor of the personal computer. Wilkes worked to develop the operating system, which incorporated scrolling and controls to manipulate documents in real time.
 
 ### Maryam Mirzakhani (K)
 
-Maryam Mirzakhani was a mathematician who earned the honor of being the first (and as of writing---only) woman to win the Fields Medal, the most prestigious award in the field of mathematics for her work on advanced geometry.
+Maryam Mirzakhani was a mathematician who earned the honor of being the first (and as of writing---only) woman to win the [Fields Medal](https://www.mathunion.org/imu-awards/fields-medal), the most prestigious award in the field of mathematics, for her work on advanced geometry.
 
 ### Mollie Orshansky (Q)
 
-Mollie Orshansky was a statistician and economist. She developed the *Orshansky Poverty Thresholds*, now used in the United States to determine which households are considered to be poor, based on the cost of a nutritionally sufficient diet.
+Mollie Orshansky was a statistician and economist. She developed the [*Orshansky Poverty Thresholds*](https://aspe.hhs.gov/topics/poverty-economic-mobility/poverty-guidelines/further-resources-poverty-measurement-poverty-lines-their-history/history-poverty-thresholds), now used in the United States to determine which households are considered to be poor, based on the cost of a nutritionally sufficient diet.
 
 ### Nan Laird (J)
 
-Nan Laird has produced many influential papers in the field of biostatistics. She is most known for writings on the expectation-maximization algorithm, a method to find local maxima and minima for statistical model parameters.
+[Nan Laird](https://projecteuclid.org/journals/statistical-science/volume-30/issue-4/A-Conversation-with-Nan-Laird/10.1214/15-STS528.full?tab=ArticleLink) has produced many influential papers in the field of biostatistics. She is most known for writings on the expectation-maximization algorithm, a method to find local maxima and minima for statistical model parameters.
 
 ### Nancy Reid (10)
 
-Nancy Reid is a theoretical statistician, known for her contributions to the theory of statistical inference, profile likelihood, and approximations to significance functions. Her work has also focused on the interaction between Bayesian and frequentest methodologies.
+[Nancy Reid](https://utstat.toronto.edu/reid/html/overview.html) is a theoretical statistician, known for her contributions to the theory of statistical inference, profile likelihood, and approximations to significance functions. Her work has also focused on the interaction between Bayesian and frequentest methodologies.
 
 ### Radia Perlman (9)
 
-Radia Perlman is a programmer and network engineer, known for inventing the spanning-tree protocol, which is essential to allowing for the merging of multiple communication networks.
+Radia Perlman is a programmer and network engineer, known for inventing the [spanning-tree protocol](https://www.juniper.net/documentation/us/en/software/junos/stp-l2/topics/topic-map/spanning-tree-overview.html), which is essential to allowing for the merging of multiple communication networks.
 
 ### Ruth Teitelbaum (8)
 
-Ruth Teitelman was one of the first ever computer programmers, working to develop the ENIAC. Having previously spent time manually calculating ballistic trajectories, she worked to develop software that would do this for her and help work to end the era of manual computing.
+Ruth Teitelbaum was one of the first ever computer programmers, working to develop the ENIAC. Having previously spent time manually calculating ballistic trajectories, she worked to develop software that would do this for her and help work to end the era of manual computing.
 
 ### Shafi Goldwasser (7)
 
-Shafi Goldwasser has had a big impact in the world of cybersecurity, co-inventing probabilistic encryption, which set up what is now the gold standard for encryption methodology. She has also done work in complexity theory, helping to classify approximation problems. 
+Shafi Goldwasser has had a big impact in the world of cybersecurity, co-inventing [probabilistic encryption](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjy5OCTmYTyAhVPVc0KHQgzCA8QFjAPegQILhAD&url=https%3A%2F%2Fhrcak.srce.hr%2Ffile%2F8172&usg=AOvVaw2BsrpLd6tZoXMf76LNVBWo), which set up what is now the gold standard for encryption methodology. She has also done work in complexity theory, helping to classify approximation problems. 
 
 ### Sofya Kovalevskaya (6)
 
-Sofia Kovalevskaya was a 19th century mathematician who contributed to the fields of analysis, partial differential equations, and mechanics. She was also the first female editor of a scientific journal and the first woman to become a full professor in northern Europe.
+[Sofya Kovalevskaya](https://www.britannica.com/biography/Sofya-Vasilyevna-Kovalevskaya) was a 19th century mathematician who contributed to the fields of analysis, partial differential equations, and mechanics. She was also the first female editor of a scientific journal and the first woman to become a full professor in northern Europe.
 
 ### Sophie Germain (5)
 
-Sophie Germain was an 18th and 19th century French mathematician and physicist who pioneered elasticity theory and made important contributions surrounding Fermat's Last Theorem. Although she tried, despite her clear talent she was sadly unable to make a living from mathematics due to prejudice against her because of her sex.
+Sophie Germain was an 18th and 19th century French mathematician and physicist who pioneered [elasticity theory](https://www.iue.tuwien.ac.at/phd/dhar/node17.html) and made important contributions surrounding [Fermat's Last Theorem](https://www.britannica.com/science/Fermats-last-theorem. Although she tried, despite her clear talent she was sadly unable to make a living from mathematics due to prejudice against her because of her sex.
 
 ### Sophie Wilson (4)
 
-Sophie Wilson is a computer scientist who worked to design the BBC Micro (a set of microcomputers and peripherals made for a computer literacy project by the British Broadcasting Corporation) and ARM architecture for computer processors.
+Sophie Wilson is a computer scientist who worked to design the [BBC Micro](https://computerhistory.org/blog/the-bbc-micro/) (a set of microcomputers and peripherals made for a computer literacy project by the British Broadcasting Corporation) and ARM architecture for computer processors.
 
 ### Steve Shirley (3)
 
-Steve Shirley was a big promoter of workplace equality, working to build a tech empire in the 1960s with an  all-female and work-from-home staff from women who had left their careers after becoming mothers. She promoted return to work, flexibile work policy, and ideas of profit-sharing and job-sharing.
+[Dame Stephanie "Steve" Shirley](https://www.unssc.org/about-unssc/speakers-and-collaborators/dame-stephanie-steve-shirley/) was a big promoter of workplace equality in her career, working to build a tech empire in the 1960s with an all-female and work-from-home staff from women who had left their careers after becoming mothers. She promoted return to work, flexibile work policy, and ideas of profit-sharing and job-sharing.
 
-### Winifred Edgerton (2)
+### Winifred Edgerton Merrill (2)
 
-Winifred Edgerton was the first American woman to earn a Ph.D. in mathematics, which she received from Columbia in 1886. Later on, she helped draft proposals for the foundation of Barnard College, which was New York City's first secular higher education institution to offer women a degree in liberal arts.
+[Winifred Edgerton Merrill](https://www.ams.org/notices/201204/rtx120400504p.pdf) was the first American woman to earn a Ph.D. in mathematics, which she received from Columbia in 1886. Later on, she helped draft proposals for the foundation of Barnard College, which was New York City's first secular higher education institution to offer women a degree in liberal arts.
