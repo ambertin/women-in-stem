@@ -1,6 +1,8 @@
 # Women in Math, Stats, and CS –– Card Profiles
 
 
+Welcome to the homepage for my women in Math, Stats, and CS playing cards. I created these cards with the goal of educating others about the impact that women have had in STEM and getting more women excited to participate in the field! No profit was made in the creation and distribution of these decks–all proceeds were donated to charities supporting the engagement of women in STEM.
+
 
 <img src="hearts.png"/>
 
