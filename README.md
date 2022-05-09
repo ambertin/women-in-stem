@@ -217,7 +217,7 @@ Shafi Goldwasser has had a big impact in the world of cybersecurity, co-inventin
 
 ### Sophie Germain (5)
 
-Sophie Germain was an 18th and 19th century French mathematician and physicist who pioneered [elasticity theory](https://www.iue.tuwien.ac.at/phd/dhar/node17.html) and made important contributions surrounding [Fermat's Last Theorem](https://www.britannica.com/science/Fermats-last-theorem. Although she tried, despite her clear talent she was sadly unable to make a living from mathematics due to prejudice against her because of her sex.
+Sophie Germain was an 18th and 19th century French mathematician and physicist who pioneered [elasticity theory](https://www.iue.tuwien.ac.at/phd/dhar/node17.html) and made important contributions surrounding [Fermat's Last Theorem](https://www.britannica.com/science/Fermats-last-theorem). Although she tried, despite her clear talent she was sadly unable to make a living from mathematics due to prejudice against her because of her sex.
 
 ### Sophie Wilson (4)
 
